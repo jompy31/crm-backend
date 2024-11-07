@@ -1,0 +1,10 @@
+deploy_password=
+mysql_root_password=
+db_pass=3PDTleNftG3hfREtysleqHx61bgyKO89z2wIQ2Guw7M=
+
+# Configuración para MySQL
+DB_DIALECT=mysql
+DB_HOST=localhost
+DB_USER=abcupon3_abcupon_crm
+DB_PASS=mIM0pPv2douT
+DB_NAME=abcupon3_whaticket
